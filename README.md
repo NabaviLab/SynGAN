@@ -11,7 +11,7 @@ Differentiable Blending Module
 Swin Transformer Discriminator
 
 ## Model Architecture
-![Main_Archi](Main_Archi%20.png)
+![Main Architecture](Main_Archi.png)
 
 ## Structure
 ```
@@ -42,3 +42,4 @@ python train.py
 ## Evaluation
 ```bash
 python test.py
+
